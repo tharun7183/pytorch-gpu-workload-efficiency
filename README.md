@@ -88,7 +88,6 @@ The notebook:
 
 TensorBoard trace captured using `torch.profiler` during optimized inference.
 
-![Profiler Trace](assets/profiler_trace.png)
 
 **Observations**
 - Reduced kernel execution time after AMP + compilation
